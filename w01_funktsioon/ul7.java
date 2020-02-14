@@ -4,7 +4,7 @@ import java.util.Scanner;
 /**
  * proov
  */
-public class proov {
+public class ul7 {
 
     public static void main(String[] args) {
         Random r = new Random();
